@@ -1,0 +1,23 @@
+TOOLKIT PLAN: PERSONAL MINI-TOOLKIT
+
+1. Tools Included:
+   - Tool 1: Number Guessing Game (Uses loops, conditionals, and random logic to guess a secret number).
+   - Tool 2: Dynamic To-Do List Manager (Uses a list that changes in real-time as items are added/viewed).
+   - Tool 3: Tip & Bill Calculator (Uses conditionals, arithmetic operations, and formatted f-strings).
+
+2. Exact Menu Text:
+   =========================================
+          WELCOME TO MY PYTHON TOOLKIT
+   =========================================
+   1. Number Guessing Game
+   2. Manage To-Do List
+   3. Calculate Bill & Tip
+   4. Quit Program
+   Enter your choice (1-4): 
+
+3. Concepts Used:
+   - While loops for the main menu and game loops.
+   - For loops for displaying to-do list items.
+   - If/elif/else conditionals for menu routing and validation.
+   - Lists (`todo_list = []`) that mutate dynamically.
+   - F-strings for clean, user-friendly output messages.
